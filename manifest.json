@@ -1,0 +1,9 @@
+{
+  "name": "香港寺觀故事地圖",
+  "short_name": "香港寺觀故事",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5efe6",
+  "theme_color": "#8b2c25",
+  "icons": []
+}
